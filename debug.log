@@ -1,0 +1,70 @@
+[0729/134946.341:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://sites.google.com/view/webxsearch/accueil (0)
+[0729/135026.762:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://sites.google.com/view/webxsearch/accueil (0)
+[0729/135119.595:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.youtube.com/watch?v=9TDgcTtFaNc (0)
+[0729/135119.597:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.youtube.com/watch?v=9TDgcTtFaNc (0)
+[0729/135119.643:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?uilel=3&service=youtube&passive=true&hl=en&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26hl%3Den%26next%3D%252Fsignin_passive%26action_handle_signin%3Dtrue%26app%3Ddesktop' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/watch?v=9TDgcTtFaNc (0)
+[0729/135123.258:INFO:CONSOLE(0)] "The resource https://r5---sn-n4g-jqber.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0729/135123.259:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0729/135123.259:INFO:CONSOLE(0)] "The resource https://r5---sn-n4g-jqber.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[0729/143104.501:ERROR:cache_util_win.cc(21)] Unable to move the cache: Accès refusé. (0x5)
+[0729/143104.556:ERROR:cache_util.cc(139)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0729/143104.556:ERROR:disk_cache.cc(184)] Unable to create cache
+[0729/143104.556:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[0729/163146.589:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163151.704:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163155.993:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163156.885:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163201.017:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163202.044:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163206.031:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163207.055:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163211.047:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163212.067:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163216.103:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163217.324:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163219.848:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163221.126:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163222.344:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163224.866:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163226.144:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163227.363:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163229.885:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163231.158:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163232.384:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163234.896:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163236.174:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163237.403:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163239.921:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163241.186:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163242.417:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163244.938:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163246.215:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163247.425:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163249.962:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163251.224:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163252.439:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163254.973:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163256.247:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163257.448:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163414.340:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163415.889:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163419.594:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163421.096:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163424.633:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163426.173:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163429.649:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163431.186:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163434.658:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163436.196:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163439.733:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163441.260:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163444.775:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163446.292:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0729/163447.560:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0731/100422.568:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1
+[0801/110414.269:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.youtube.com/?hl=fr&gl=FR (0)
+[0801/110414.270:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.youtube.com/?hl=fr&gl=FR (0)
+[0801/110414.270:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://accounts.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.youtube.com/?hl=fr&gl=FR (0)
+[0801/110414.271:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&hl=en&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dpassive%26hl%3Den%26action_handle_signin%3Dtrue%26next%3D%252Fsignin_passive%26app%3Ddesktop&passive=true' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?hl=fr&gl=FR (0)
+[0801/110416.318:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://www.google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.youtube.com/?hl=fr&gl=FR (0)
+[0801/110418.701:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
